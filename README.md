@@ -19,8 +19,12 @@
   - Kurze Einführung in GNU Radio Companion, kleine Übungen dazu
 
 - 06.03.2024:
-
+  - Themenfindung
+  - Besprechung vom Thema
+  
+    
 - 13.03.2023:
+  - Karrieretag
 
 - 20.03.2024:
 
@@ -29,3 +33,5 @@
 - 10.04.2024:
   - Abgabe, Präsentation des Projekts
   - Benotung
+
+### Dokumentation
