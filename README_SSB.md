@@ -46,7 +46,7 @@ Die Einseitenbandmodulation (ESB, heute besser bekannt als SSB) ist eine spektra
 Klassischerweise gab es drei verschiedene Methoden zur Erzeugung von SSB. Die erste Methode ist die Filtermethode, bei der ein ZF-Träger DSBSC-moduliert wird und das LSB oder USB mit einem sehr selektiven Quarzfilter entfernt wird. Meine beiden SSB-Amateurtransceiver (TR4C und K2) verwenden diese Methode. Die zweite Methode ist die Hartley- oder Phasing-Methode und die letzte Methode ist die Weaver-Methode. Abbildung 1 zeigt den SSB-Modulator nach der Hartley-Phasing-Methode. Der Aufbau ist analog zum Hartley-IQ-SSB-Empfänger, der im vorherigen Beitrag beschrieben wurde. Die Sprachsignale werden zunächst für SSB-Qualität auf ca. 300-2700 Hz tiefpassgefiltert. Dann werden sie zwei symmetrischen I- und Q-Mischern zugeführt. Das Audiosignal im I-Zweig wird mit einer Hilbert-Transformation  um 90 Grad phasenverschoben. In der Vergangenheit war es äußerst schwierig, eine Hilbert-Transformation zu erstellen. Heutzutage können DSP-Techniken verwendet werden.
 
 ## Hartley SSB Modulator Discrete Tone
-##### Simulation:
+### Simulation:
 
 ##### Abbildung 1:
 ![WhatsApp Bild 2024-04-09 um 22 45 12_cee321ca](https://github.com/sofia20K/ksn/assets/165880295/3f8b4fc3-6ad6-485e-8d9c-b02b121785b0)
