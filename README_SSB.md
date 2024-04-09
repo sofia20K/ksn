@@ -48,14 +48,14 @@ Klassischerweise gab es drei verschiedene Methoden zur Erzeugung von SSB. Die er
 ## Hartley SSB Modulator Discrete Tone
 ##### Simulation:
 
-### Abbildung 1:
+##### Abbildung 1:
 ![WhatsApp Bild 2024-04-09 um 22 45 12_cee321ca](https://github.com/sofia20K/ksn/assets/165880295/3f8b4fc3-6ad6-485e-8d9c-b02b121785b0)
 
-### Abbildung 2:
+##### Abbildung 2:
 
 ![image](https://github.com/sofia20K/ksn/assets/165880295/da08dec9-7282-4164-9b1a-ec6223e68459)
 
-### Abbildung 3:
+##### Abbildung 3:
 
 ![image](https://github.com/sofia20K/ksn/assets/165880295/74130211-3aef-4216-8ce5-e8812d2cf12e)
 
@@ -67,17 +67,17 @@ Abbildung 1 zeigt einen Phasing-Modulator, der auf GNU Radio basiert. Die Signal
 
 Abbildung 4 zeigt einen ähnlichen GNU-Radio-Modulator wie in Abbildung 1, nur dass diesmal die Informationsquelle ein Audio-Quellblock ist. Dieser nimmt den Ton des Laptops auf und ist auf 300-2700 Hz bandgefiltert. Abbildung 5 zeigt die I- und Q-Informationssignale und Abbildung 6 zeigt das SSB-USB-Ausgangsspektrum.
 
-### Abbildung 4:
+##### Abbildung 4:
 
 ![image](https://github.com/sofia20K/ksn/assets/165880295/51f0d956-b3c6-4cb2-af5b-473d9c970147)
 
 
-### Abbildung 5:
+##### Abbildung 5:
 
 ![image](https://github.com/sofia20K/ksn/assets/165880295/01d4a217-81a8-4700-84a5-3ad423e3393e)
 
 
-### Abbildung 6:
+##### Abbildung 6:
 
 ![image](https://github.com/sofia20K/ksn/assets/165880295/f1f73122-40d2-4bdd-a284-0ab576f8e5ad)
 
